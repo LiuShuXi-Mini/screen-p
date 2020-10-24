@@ -9,4 +9,4 @@
 $.getJSON("https://LiuShuXi-Mini.github.io/pbjson/def.json", function (data) {
 ```
 
-改```getJSON```函数的第一个参数，https://LiuShuXi-Mini.github.io/pbjson 里有多个json选择。
+改```getJSON```函数的第一个参数，[https://LiuShuXi-Mini.github.io/pbjson](https://github.com/LiuShuXi-Mini/LiuShuXi-Mini.github.io/tree/main/pbjson) 里有多个json选择。
